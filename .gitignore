@@ -1,0 +1,8 @@
+*.pth
+**/.ipynb_checkpoints
+*.pyc
+__pycache__/
+.env
+node_modules/
+early_experiments/
+runs/
